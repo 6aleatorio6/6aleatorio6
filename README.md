@@ -1,43 +1,43 @@
 ## Olá pessoas que não conheço!
 
-Atualmente estou finalizando o ensino médio com um certificado de TÉCNICO EM INFORMÁTICA PARA INTERNET a tira colo, Tenho 18 anos anos e estou procurando um emprego na área. Minha stack gira em torno do javascript mais basico até os framworks como NestJs e React Native, além do certificado do if, comprovo minhas habilidades com projetos feitos tanto no curso quanto fora. 
+Atualmente, estou finalizando o ensino médio com um certificado de **Técnico em Informática para Internet** em mãos. Tenho 18 anos e estou em busca de uma oportunidade de trabalho.
 
-Se quiser me contatar use o email: leonardolfelix12@gmail.com
+Se quiser entrar em contato, meu e-mail é: [leonardolfelix12@gmail.com](mailto:leonardolfelix12@gmail.com).
 
 <a href="https://github.com/6aleatorio6" align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6aleatorio6&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 
-## Aqui estão 4 repositorios que representam o desenvolvimento das minhas habilidades em ordem descrecente.
+## Aqui estão 4 repositórios que representam o desenvolvimento das minhas habilidades.
 
-### 1. Damas Paia (nome estranho, porém unico) - Jogo de damas online mobile
+### 1. Damas Paia (nome estranho, porém único) - Jogo de damas online mobile
 
-O Damas Paia é o projeto mais recente que fiz, levando 3 meses de esforços para finalizar. Ele é um jogo de damas online que deveria ser multiplataforma, mas no final só consegui fazer o frontend mobile por falta de tempo. Para mais informações consulte os repositorios.
-
-<p>
-  <img src="https://gist.githubusercontent.com/6aleatorio6/ed8cc379ee1ad319cca1dd8604f006de/raw/7258f0b052824b803a8265bd2f57ffefeedbba81/pareamentoEjogo.gif" alt="Pareamento e uma partida de damas" width="624" />
-</p>
-
-Atualmente o backend está hospedado no heroku, você pode baixar o apk encontrado no repo mobile para testar. (lembrando que para iniciar uma partida outra pessoa tambem precisa estar na fila, e provavelmente não tem. Peça a um amigo para junto)
+O **Damas Paia** é o projeto mais recente que desenvolvi, levando 3 meses de esforços para ser finalizado. Ele é um jogo de damas online que inicialmente deveria ser multiplataforma, mas no final consegui desenvolver apenas o frontend mobile por falta de tempo. Para mais informações, consulte os repositórios.
 
 | Plataforma                                                   | Tecnologia   | 
 | ------------------------------------------------------------ | ------------ | 
 | [Backend](https://github.com/6aleatorio6/Damas-Paia_backend) | NestJS       |
 | [Mobile](https://github.com/6aleatorio6/Damas-Paia_mobile)   | React Native |
 
-### 2. Biodex - projeto comunitário para o parque Juqueriquere de Caraguatatuba-SP
 
-Este foi um projeto envolvendo toda a turma em seu ultimo semestre. Saiu noticia até no site da prefeitura:  [noticia](https://www.caraguatatuba.sp.gov.br/pmc/2024/06/prefeitura-de-caraguatatuba-recebe-alunos-do-ifsp-para-apresentacao-de-aplicativo-para-o-parque-juqueriquere/).
+<p>
+  <img src="https://gist.githubusercontent.com/6aleatorio6/ed8cc379ee1ad319cca1dd8604f006de/raw/7258f0b052824b803a8265bd2f57ffefeedbba81/pareamentoEjogo.gif" alt="Pareamento e uma partida de damas" width="624" />
+</p>
 
-Infelizmente não foi documentado, então vou dar um breve resumo:
+Atualmente, o backend está hospedado no Heroku. Você pode instalar o APK encontrado no repositório mobile para experimentar (lembrando que, para iniciar uma partida, outra pessoa também precisa estar na fila, o que provavelmente não acontecerá. Peça a um amigo para testar junto).
 
-BioDex é um sistema complexo divido em varias partes:
- - Um totem para visitantes preencher o formulario de entrada, tendo um Qrcode alimentado por webSocket para caso o visitante tenha o App do Biodex, podendo preencher o formulario apenas apontando o cell.
- - Um admin que mostra os dados obtidos pelo totem de visitante, com exportação para excel e pdf.
- - Um Aplicativo gameficado, onde a pessoa pode encontrar os qrCode espalhados pelo parque representando a fauna, quando  o app lê algum desses qrCode é aberto um modal com as informações dessa coisa e é 
-    contabilizado no ranking do app, que é resetado todo mẽs. Se a pessoa ler o qrcode do token pela camera do app e já tiver completado as informações da conta, ele se comunica com o totem e é contabilizada a visita.
 
-obs: o TOTEM e o Admin usam o mesmo site, dependendo do tipo da conta abre uma das 2 interface.
+### 2. Biodex - Projeto comunitário para o parque Juqueriquere de Caraguatatuba-SP
+
+Este foi um projeto desenvolvido por toda a turma no último semestre. Saiu uma notícia até no site da prefeitura: [Notícia](https://www.caraguatatuba.sp.gov.br/pmc/2024/06/prefeitura-de-caraguatatuba-recebe-alunos-do-ifsp-para-apresentacao-de-aplicativo-para-o-parque-juqueriquere/).
+
+Infelizmente, o projeto não possui documentação oficial, então apresento um breve resumo:
+
+**BioDex** é um sistema complexo dividido em várias partes:
+
+- Um totem que permite aos visitantes preencherem o formulário de entrada.
+- Um painel administrativo que apresenta os dados coletados pelo totem, com funcionalidades de exportação para Excel e PDF.
+- Um aplicativo gamificado que permite aos usuários localizar os QR Codes espalhados pelo parque, representando a fauna local. Ao escanear um desses QR Codes, o app exibe um modal com informações sobre o item, e essa interação é contabilizada no ranking do aplicativo, que é reiniciado mensalmente. Se o usuário escanear o QR Code do token pela câmera do app e já tiver completado as informações da conta, a visita é registrada no totem.
 
 | Plataforma                                                   | Tecnologia   | 
 | ------------------------------------------------------------ | ------------ | 
@@ -45,13 +45,16 @@ obs: o TOTEM e o Admin usam o mesmo site, dependendo do tipo da conta abre uma d
 | [Mobile](https://github.com/Programadorwolrd/pj3-Aplicativo-Municipal)   | React Native |
 | [Totem \| Admin](https://github.com/lorislolo/pi-3sem)   | React |
 
-### 3. TECHPASS - Sistema de gerenciamento de uma empresa de onibus
-> AVISO: Esse foi o meu primeiro projeto, o código está uma bagunça, muito menos em documentação. Mas garanto que melhorei, como se pode ver com Damas Paia...
+### 3. TECHPASS - Sistema de gerenciamento de uma empresa de ônibus
 
-TechPass foi o tabalho que fiz com o (flavio)[https://github.com/flavioifsp] na matéria de projeto integrado no 2° semestre do curso, ele tem 3 partes:
-  -  um site publico onde mostra as informações da empresa e onde o cliente pode criar uma conta e recarregar cartão
-  - um admin com contas com diferentes permissões, onde um admin pode definir as rotas do onibus para serem mostradas no site publico, criar cartões diferentes com diferentes tarifas para serem  usadas na catraca descontando da conta da pessoa
-  - A catraca do onibus, ela recebe uma parametro para identificar o onibus e tem um input oculto, testado com leitor RFID na apresentação do projeto. Ela recebe o id dos cartões do cliente e desconta a tarifa definida daquele cartão e se não tiver saldo suficiente é recusado.
+> **AVISO:** Este foi o meu primeiro projeto, e o código está desorganizado, com documentação bastante limitada. No entanto, garanto que minha habilidade evoluiu, como pode ser visto em Damas Paia.
+
+TechPass foi o trabalho que desenvolvi com o [Flávio](https://github.com/flavioifsp) na disciplina de Projeto Integrado durante o 2° semestre do curso. O sistema é composto por três partes:
+
+- Um site público que apresenta informações sobre a empresa e permite que os clientes criem contas e recarreguem seus cartões.
+- Um painel administrativo com contas de diferentes permissões, onde o administrador pode definir as rotas dos ônibus a serem exibidas no site público, além de criar cartões com tarifas variadas para serem utilizados na catraca, descontando da conta do usuário.
+- A catraca do ônibus, que recebe um parâmetro para identificar o ônibus e possui um input oculto, testado com um leitor RFID durante a apresentação do projeto. Ela recebe o ID dos cartões dos clientes, desconta a tarifa definida para aquele cartão e, caso não haja saldo suficiente, a operação é recusada.
+
 
 Estou esquecendo muitos detalhes pois faz muito tempo, mas olhando para trás é meio surreal a dimensão desse projeto para o meu nivel na época. Para se ter noção, olha o diagrama do banco:
 
@@ -63,10 +66,11 @@ Estou esquecendo muitos detalhes pois faz muito tempo, mas olhando para trás é
 | ------------------------------------------------------------ | ------------ | 
 | [Mobile \| Backend \| Catraca](github.com/flavioifsp/Pj2-G10-TechPass)   | Express, Ejs, bootstrap, mySql, Prisma |
 
-### 4. Lista de exercicios
+### 4. Lista de Exercícios
 
-Bem, isso não é bem um projeto, mas sim uma lista de exercicos que fiz no 1° Semestre, quando eu estava aprendendo a lógica da programação
+Este não é exatamente um projeto, mas sim uma lista de exercícios que desenvolvi no 1° semestre, quando estava aprendendo lógica de programação.
 
-fonte: [wiki python](https://wiki.python.org.br/ListaDeExercicios)  
-lista de exercicios que fiz na época: [replit](https://replit.com/@LEONARDOLOPES29/atividade-avaliativa-1#lista2/a45.js)
+- **Fonte:** [Wiki Python](https://wiki.python.org.br/ListaDeExercicios)  
+- **Lista de Exercícios:** [Replit](https://replit.com/@LEONARDOLOPES29/atividade-avaliativa-1#lista2/a45.js)
+
 
