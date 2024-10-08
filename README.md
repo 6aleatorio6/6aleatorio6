@@ -27,23 +27,23 @@ O **Damas Paia** é o projeto mais recente que desenvolvi, levando 3 meses de es
 Atualmente, o backend está hospedado no Heroku. Você pode instalar o APK encontrado no repositório mobile para experimentar (lembrando que, para iniciar uma partida, outra pessoa também precisa estar na fila, o que provavelmente não acontecerá. Peça a um amigo para testar junto).
 
 
-### 2. Biodex - Projeto comunitário para o parque Juqueriquere de Caraguatatuba-SP
+### 2. BioDex - Projeto comunitário para o Parque Juqueriquerê, Caraguatatuba-SP
 
-Este foi um projeto desenvolvido por toda a turma no último semestre. Saiu uma notícia até no site da prefeitura: [Notícia](https://www.caraguatatuba.sp.gov.br/pmc/2024/06/prefeitura-de-caraguatatuba-recebe-alunos-do-ifsp-para-apresentacao-de-aplicativo-para-o-parque-juqueriquere/).
+Esse projeto foi desenvolvido em parceria com toda a turma no último semestre e até gerou uma matéria no site da prefeitura: [Notícia](https://www.caraguatatuba.sp.gov.br/pmc/2024/06/prefeitura-de-caraguatatuba-recebe-alunos-do-ifsp-para-apresentacao-de-aplicativo-para-o-parque-juqueriquere/).
 
-Infelizmente, o projeto não possui documentação oficial, então apresento um breve resumo:
+Embora o projeto não possua documentação oficial, aqui está um resumo das funcionalidades do **BioDex**:
 
-**BioDex** é um sistema complexo dividido em várias partes:
+- **Totem Interativo**: Permite que os visitantes preencham um formulário de entrada digital no parque.
+- **Painel Administrativo**: Exibe os dados coletados pelo totem, com opções de exportação para Excel e PDF.
+- **Aplicativo Mobile Gamificado**: Os visitantes podem localizar QR Codes espalhados pelo parque, cada um representando uma espécie da fauna local. Ao escanear um QR Code, o app exibe um modal com informações detalhadas sobre o item, e a interação é registrada no ranking mensal do aplicativo. Além disso, se o visitante escanear o QR Code do totem pela câmera do app e já tiver completado as informações de cadastro, a visita é automaticamente registrada.
 
-- Um totem que permite aos visitantes preencherem o formulário de entrada.
-- Um painel administrativo que apresenta os dados coletados pelo totem, com funcionalidades de exportação para Excel e PDF.
-- Um aplicativo gamificado que permite aos usuários localizar os QR Codes espalhados pelo parque, representando a fauna local. Ao escanear um desses QR Codes, o app exibe um modal com informações sobre o item, e essa interação é contabilizada no ranking do aplicativo, que é reiniciado mensalmente. Se o usuário escanear o QR Code do token pela câmera do app e já tiver completado as informações da conta, a visita é registrada no totem.
+| Plataforma                                                                                               | Tecnologia   | 
+| -------------------------------------------------------------------------------------------------------- | ------------ | 
+| [Backend](https://github.com/6aleatorio6/pj3-backend)                                                     | Express      |
+| [Aplicativo Mobile](https://github.com/Programadorwolrd/pj3-Aplicativo-Municipal)                          | React Native |
+| [Totem e Painel Administrativo](https://github.com/lorislolo/pi-3sem)                                     | React        |
 
-| Plataforma                                                   | Tecnologia   | 
-| ------------------------------------------------------------ | ------------ | 
-| [Backend](https://github.com/6aleatorio6/pj3-backend)        | Express      |
-| [Mobile](https://github.com/Programadorwolrd/pj3-Aplicativo-Municipal)   | React Native |
-| [Totem \| Admin](https://github.com/lorislolo/pi-3sem)   | React |
+O BioDex é um sistema integrado e desenvolvido para aprimorar a experiência dos visitantes no parque, combinando diversas tecnologias para oferecer uma solução interativa e completa.
 
 ### 3. TECHPASS - Sistema de gerenciamento de uma empresa de ônibus
 
