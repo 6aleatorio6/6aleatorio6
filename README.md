@@ -71,6 +71,6 @@ Estou esquecendo muitos detalhes pois faz muito tempo, mas olhando para trás é
 Este não é exatamente um projeto, mas sim uma lista de exercícios que desenvolvi no 1° semestre, quando estava aprendendo lógica de programação.
 
 - **Fonte:** [Wiki Python](https://wiki.python.org.br/ListaDeExercicios)  
-- **Lista de Exercícios:** [Replit](https://replit.com/@LEONARDOLOPES29/atividade-avaliativa-1#lista2/a45.js)
+- **Minhas Resoluções da Lista de Exercícios:** [Replit](https://replit.com/@LEONARDOLOPES29/atividade-avaliativa-1#lista2/a45.js)
 
 
