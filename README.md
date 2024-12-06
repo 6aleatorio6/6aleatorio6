@@ -7,6 +7,29 @@ Me chamo **Leonardo**, sou desenvolvedor **Full Stack** com certificado de [**cu
 </a>
 
 
+## 🚀 Tecnologias e Ferramentas  
+
+### **Frontend**
+- ⚛️ **React** (Hooks, Context API, React Query)  
+- 🌐 **React Native** (aplicações móveis)  
+- 🎨 **HTML5**, **CSS3** (incluindo **TailwindCSS**, **Styled Components** e **Bootstrap**)  
+- 🛠️ **TypeScript**  
+
+### **Backend**
+- 🖧 **Node.js** (Express, NestJS)  
+- 🔄 **Socket.io** (WebSocket para comunicação em tempo real)  
+- 🗃️ **PostgreSQL** e **MySQL**  
+- 📚 **TypeORM** e **Prisma**  
+
+### **Ferramentas e Testes**
+- 🛠️ **Git** e **GitHub**  
+- 🐧 **Linux** (Ubuntu, Fedora)  
+- 🐋 **Docker**  
+- ✅ **Testes**: **Jest** (unitários), **SuperTest** (endpoints), **Testing Library**  
+- 🌐 **MSW** (Mock Service Worker para interceptação de requisições e simulação de APIs)  
+- 🔧 **Bash** para automação e scripts  
+
+
 ## Repositórios destacados
 
 ### 1. **Damas Online** - Jogo Multiplayer Online (Julho 2024 - Outubro 2024)
