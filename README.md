@@ -3,7 +3,7 @@
 Me chamo **Leonardo**, sou desenvolvedor **Full Stack** com certificado de [**curso técnico em Informática para Internet**](https://www.ifspcaraguatatuba.edu.br/cursos/tecnico/tecnico-em-informatica-para-internet), e estou em busca de uma oportunidade de trabalho. Tenho 18 anos com experiência prática no desenvolvimento de sistemas através de projetos acadêmicos e pessoais.
 
 <a href="https://github.com/6aleatorio6" align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6aleatorio6&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6aleatorio6&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />
 </a>
 
 
