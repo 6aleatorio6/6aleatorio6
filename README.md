@@ -1,5 +1,7 @@
 ## Sobre mim
 
+Be
+
 Me chamo **Leonardo**, sou desenvolvedor **Full Stack** com certificado de [**curso técnico em Informática para Internet**](https://www.ifspcaraguatatuba.edu.br/cursos/tecnico/tecnico-em-informatica-para-internet), e estou em busca de uma oportunidade de trabalho. Tenho 18 anos com experiência prática no desenvolvimento de sistemas através de projetos acadêmicos e pessoais.
 
 <a href="https://github.com/6aleatorio6" align="left">
@@ -7,32 +9,21 @@ Me chamo **Leonardo**, sou desenvolvedor **Full Stack** com certificado de [**cu
 </a>
 
 
-## 🚀 Tecnologias e Ferramentas  
-
-### **Frontend**
-- ⚛️ **React** (Hooks, Context API, React Query)  
-- 🌐 **React Native** (aplicações móveis)  
-- 🎨 **HTML5**, **CSS3** (incluindo **TailwindCSS**, **Styled Components** e **Bootstrap**)  
-- 🛠️ **TypeScript**  
-
-### **Backend**
-- 🖧 **Node.js** (Express, NestJS)  
-- 🔄 **Socket.io** (WebSocket para comunicação em tempo real)  
-- 🗃️ **PostgreSQL** e **MySQL**  
-- 📚 **TypeORM** e **Prisma**  
-
-### **Ferramentas e Testes**
-- 🛠️ **Git** e **GitHub**  
-- 🐧 **Linux** (Ubuntu, Fedora)  
-- 🐋 **Docker**  
-- ✅ **Testes**: **Jest** (unitários), **SuperTest** (endpoints), **Testing Library**  
-- 🌐 **MSW** (Mock Service Worker para interceptação de requisições e simulação de APIs)  
-- 🔧 **Bash** para automação e scripts  
-
 
 ## Repositórios destacados
 
-### 1. **Damas Online** - Jogo Multiplayer Online (Julho 2024 - Outubro 2024)
+
+
+### 1. **DicioSimples** – Dicionário com IA e Explicações Simples (Janeiro 2025 - Março 2025)
+
+Dicionário online que gera explicações simplificadas com sinônimos e antônimos usando a **API Gemini**, com cache em **Redis**. Feito com **Laravel**, **Vue**, **Tailwind CSS** e **Inertia.js**, possui busca com sugestões e painel administrativo para visualizar e gerenciar palavras.
+
+**[Repositório](https://github.com/6aleatorio6/DicioSimples)** | **[Demonstração](https://dicio-simples-ca91bbd4773b.herokuapp.com/)** 
+
+<img width="500" src="https://github.com/user-attachments/assets/12c65977-5c02-4359-a516-98d861a8b33f" alt="Demonstração do site e do admin">  
+
+
+### 2. **Damas Online** - Jogo Multiplayer Online (Julho 2024 - Outubro 2024)
 
 Jogo de damas online em tempo real desenvolvido com **React Native** (Mobile) e **NestJS** (Backend), com cobertura robusta de testes no backend.
 
@@ -42,7 +33,7 @@ Jogo de damas online em tempo real desenvolvido com **React Native** (Mobile) e 
 
 
 
-### 2. **BioDex** - Sistema de Registro de Visitas e Aplicativo Gamificado (Março 2024 - Junho 2024)
+### 3. **BioDex** - Sistema de Registro de Visitas e Aplicativo Gamificado (Março 2024 - Junho 2024)
 
 **BioDex** é um sistema desenvolvido para o Parque Natural Municipal Juqueriquerê, com o objetivo de automatizar o registro de visitas e proporcionar uma experiência interativa e educativa para os visitantes.
 
@@ -51,7 +42,7 @@ Jogo de damas online em tempo real desenvolvido com **React Native** (Mobile) e 
 <img width="500" src="https://gist.githubusercontent.com/6aleatorio6/b7667f910d555388c0ef02588b38ec65/raw/b7c0e2854dcd4a82637949a0c02ea62160d8c1af/qrcode_ambos.gif" alt="Registro de visita no totem pelo QR Code">
 
 
-### 3. **TECHPASS** - Sistema de Gerenciamento de Empresa de Ônibus (Agosto 2023 - Dezembro 2023)
+### 4. **TECHPASS** - Sistema de Gerenciamento de Empresa de Ônibus (Agosto 2023 - Dezembro 2023)
 
 **TECHPASS** é um sistema completo de gerenciamento para empresas de transporte público, projetado para otimizar a administração de rotas, motoristas e passageiros. Com integração à tecnologia RFID, o sistema automatiza e assegura o controle de embarque, proporcionando eficiência e praticidade nas operações.
 
