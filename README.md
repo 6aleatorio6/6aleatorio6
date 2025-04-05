@@ -1,6 +1,6 @@
 ## Bem-vindo ao meu GitHub!
 
-Me chamo Leonardo e sou Desenvolvedor Full Stack. Gosto de aprender na prática, criando projetos com escopo definidos. Sou formado em [**Informática para Internet**](https://www.ifspcaraguatatuba.edu.br/cursos/tecnico/tecnico-em-informatica-para-internet) pelo IFSP e atualmente curso [**Bacharelado em Ciência e Tecnologia**](https://www.unifesp.br/campus/sjc/apresentacao-bct#) na UNIFESP.  
+Olá! Me chamo Leonardo e sou Desenvolvedor Full Stack. Gosto de aprender na prática, criando projetos com início, meio e fim. Sou formado em [**Informática para Internet**](https://www.ifspcaraguatatuba.edu.br/cursos/tecnico/tecnico-em-informatica-para-internet) pelo IFSP e atualmente curso [**Bacharelado em Ciência e Tecnologia**](https://www.unifesp.br/campus/sjc/apresentacao-bct#) na UNIFESP.  
 
 
 <a href="https://github.com/6aleatorio6" align="left">
